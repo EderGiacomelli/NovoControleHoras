@@ -1,5 +1,7 @@
 <h1 align="center"> Sistema de Controle de Horários </h1>
+
 ![Logo do sistema, contem o nome "em ponto" e um calendário, ambos dentro de uma representação de um relógio](https://user-images.githubusercontent.com/101878260/168596689-2e3f0163-84d8-4061-9d13-466bd82c7310.jpg)
+
 
 Projeto de controle de horas baseado em C# para fins de registro de ponto, utilizando Mysql Server 5.5. Desenvolvido com funções básicas de entrada e saída, sem intervalos. Pensado em relatório de horas de estágio.
 
